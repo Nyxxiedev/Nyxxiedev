@@ -1,7 +1,7 @@
 # Nyxxie
 
 <p align="center">
-<img alt="animation gif" width="1000px" style="border-radius: 10px;" src="https://github.com/Kit4Bailey/Kit4Bailey/blob/main/assets/animation2.gif" />
+<img alt="animation gif" width="1000px" style="border-radius: 10px;" src="https://github.com/Kit4Bailey/Kit4Bailey/blob/main/assets/banner-3.gif" />
 </p>
 
 <hr>
